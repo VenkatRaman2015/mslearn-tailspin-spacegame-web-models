@@ -39,6 +39,6 @@ steps:
   displayName: 'Publish NuGet package'
   inputs:
     command: push
-    publishVstsFeed: 'test1feed'
+    publishVstsFeed: 'smrutmishra'
     allowPackageConflicts: true
   condition: succeeded()
